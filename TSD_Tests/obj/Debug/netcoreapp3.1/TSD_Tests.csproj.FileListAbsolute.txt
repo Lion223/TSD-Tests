@@ -1,0 +1,13 @@
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\bin\Debug\netcoreapp3.1\TSD_Tests.exe
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\bin\Debug\netcoreapp3.1\TSD_Tests.deps.json
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\bin\Debug\netcoreapp3.1\TSD_Tests.runtimeconfig.json
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\bin\Debug\netcoreapp3.1\TSD_Tests.runtimeconfig.dev.json
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\bin\Debug\netcoreapp3.1\TSD_Tests.dll
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\bin\Debug\netcoreapp3.1\TSD_Tests.pdb
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\obj\Debug\netcoreapp3.1\TSD_Tests.csprojAssemblyReference.cache
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\obj\Debug\netcoreapp3.1\TSD_Tests.AssemblyInfoInputs.cache
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\obj\Debug\netcoreapp3.1\TSD_Tests.AssemblyInfo.cs
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\obj\Debug\netcoreapp3.1\TSD_Tests.csproj.CoreCompileInputs.cache
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\obj\Debug\netcoreapp3.1\TSD_Tests.dll
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\obj\Debug\netcoreapp3.1\TSD_Tests.pdb
+W:\Sources\Code\C#\TSD_Tests\TSD_Tests\obj\Debug\netcoreapp3.1\TSD_Tests.genruntimeconfig.cache
